@@ -1,0 +1,13 @@
+{
+  "categories": [
+    "工作",
+    "生活",
+    "学习",
+    "其他",
+    "OSKY"
+  ],
+  "reminderHours": 24,
+  "pomodoroEnabled": true,
+  "workDuration": 45,
+  "breakDuration": 5
+}
